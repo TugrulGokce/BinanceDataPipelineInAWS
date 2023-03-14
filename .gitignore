@@ -1,0 +1,7 @@
+venv
+.idea
+test.py
+projects/binance/data/*.*
+projects/binance/venv
+challenge5_pipeline_cli/lambda_handler_*
+challenge5_pipeline_cli/binance_ec2_*

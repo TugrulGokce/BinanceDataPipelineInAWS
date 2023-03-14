@@ -1,0 +1,4 @@
+boto3~=1.26.90
+mysql-connector-python~=8.0.32
+python-binance~=1.0.17
+loguru~=0.6.0
