@@ -400,7 +400,6 @@ class BinanceDataPipeline:
 
         )
 
-        # return security_group.authorize_ingress(IpPermissions=ip_permissions)["SecurityGroupRules"]
 
     def get_vpc_id(self):
         """
